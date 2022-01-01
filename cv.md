@@ -39,3 +39,4 @@ Pet-project telegram bot on java for communication with 1C
 ## Languages:
 - English -  Pre-Intermediate
 - Russian - Native
+- Bashkir - Basic
